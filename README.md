@@ -4,5 +4,4 @@ This project utilizes the backtracking algorithm to count the number of unique p
 Examples of the algorithm's path visualization is shown below:
 
 <img src='/img/image1.JPG' width="40%">
-<img src='/img/image2.JPG' width="40%">
 <img src='/img/image3.JPG' width="40%">
